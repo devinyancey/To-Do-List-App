@@ -1,0 +1,36 @@
+PODS:
+  - BubbleTransition (2.0.0)
+  - CVCalendar (1.4.1)
+  - KCFloatingActionButton (2.1.2)
+  - KeyboardWrapper (3.0.1)
+  - MGSwipeTableCell (1.5.6)
+  - RAMAnimatedTabBarController (2.0.13)
+  - RSKGrowingTextView (2.0.0):
+    - RSKPlaceholderTextView (= 2.0.0)
+  - RSKPlaceholderTextView (2.0.0)
+  - Segmentio (2.1)
+
+DEPENDENCIES:
+  - BubbleTransition (~> 2.0.0)
+  - CVCalendar (~> 1.4.1)
+  - KCFloatingActionButton (~> 2.1.0)
+  - KeyboardWrapper (~> 3.0.1)
+  - MGSwipeTableCell
+  - RAMAnimatedTabBarController (~> 2.0.13)
+  - RSKGrowingTextView
+  - Segmentio
+
+SPEC CHECKSUMS:
+  BubbleTransition: bdb9d71993b8d3513008e2dda6bada1ddad25d4f
+  CVCalendar: 61912eb5dc39c3bcfe22a731147a559a696fbc15
+  KCFloatingActionButton: 1b22ce95d44b51915280df8a8b277eae4a06c3f1
+  KeyboardWrapper: 43ce2351bc483e15be08d12cf0ab551033eebab3
+  MGSwipeTableCell: 616700eb0ffd1c611ba909066cb7fd739790a0a7
+  RAMAnimatedTabBarController: 2510f3b66954c3f77ea1042a35d34df8f5f3b604
+  RSKGrowingTextView: 1d9c64f1e9f8ed9b47d883548a3fd76dfdfe1353
+  RSKPlaceholderTextView: 301f0f30e70e7c42fe4e941e3a08365ab0d890d5
+  Segmentio: ec9451dde6e5668f4b6a88c901a035faf08f8612
+
+PODFILE CHECKSUM: 99fdfc6d6c0191fd3e7d11bc447d2e312bf9aaa0
+
+COCOAPODS: 1.1.1
